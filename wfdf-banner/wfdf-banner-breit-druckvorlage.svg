@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="400cm"
-   height="50cm"
-   viewBox="0 0 4000 500"
+   width="4006mm"
+   height="506mm"
+   viewBox="0 0 4006 506"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="wfdf-banner-breit-6.svg">
+   sodipodi:docname="wfdf-banner-breit-druckvorlage.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -106,21 +106,80 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.061871843"
-     inkscape:cx="7694.1402"
-     inkscape:cy="737.61721"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="669.61111"
+     inkscape:cy="686.75898"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      width="200mm"
-     units="cm"
+     units="mm"
      inkscape:window-width="1366"
      inkscape:window-height="710"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:measure-start="7733.73,-606.092"
-     inkscape:measure-end="7871.11,1115.21" />
+     inkscape:measure-end="7871.11,1115.21"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="3.0000001,3.0000001"
+       orientation="1,0"
+       id="guide5805"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="236.6131,503.00001"
+       orientation="0,1"
+       id="guide5811"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,3.0000001"
+       orientation="0,1"
+       id="guide5813"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="4003.0001,264.58334"
+       orientation="1,0"
+       id="guide5815"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="125.4881,43.000001"
+       orientation="0,1"
+       id="guide5817"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="43.000001,0"
+       orientation="1,0"
+       id="guide5819"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="3963.0001,154.21429"
+       orientation="1,0"
+       id="guide5821"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="204.8631,463.00001"
+       orientation="0,1"
+       id="guide5823"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -136,23 +195,25 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="base">
+     inkscape:label="base"
+     transform="translate(0,6)">
     <rect
-       style="fill:#803300;fill-opacity:1;stroke-width:0.21978071"
+       style="fill:#803300;fill-opacity:1;stroke-width:0.22126123"
        id="background-2"
-       width="2000"
-       height="500"
-       x="2000"
-       y="-3.6143764e-09"
+       width="2003"
+       height="506"
+       x="2003"
+       y="-6"
        inkscape:label="#rect109" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="hammer">
+     inkscape:label="hammer"
+     transform="translate(0,6)">
     <g
        style="fill:#000000;stroke:none"
-       transform="matrix(0.0624606,0,0,-0.04619176,2619.4416,459.97872)"
+       transform="matrix(0.0624606,0,0,-0.04619176,2622.4418,456.97863)"
        id="g5020">
       <path
          inkscape:connector-curvature="0"
@@ -168,18 +229,18 @@
      inkscape:label="top"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,203)">
+     transform="translate(0,209)">
     <rect
-       style="fill:#13aea5;fill-opacity:1;stroke-width:0.21978073"
+       style="fill:#13aea5;fill-opacity:1;stroke-width:0.22126125"
        id="background"
-       width="2000"
-       height="500"
+       width="2003"
+       height="506"
        x="0"
-       y="-203"
+       y="-209"
        inkscape:label="#rect109" />
     <g
        id="g4789"
-       transform="matrix(1.6621629,0,0,1.2968635,-703.70016,36.025287)">
+       transform="matrix(1.6621629,0,0,1.2968635,-700.70014,33.025227)">
       <g
          id="g134"
          transform="matrix(0.91738448,0,0,1.1106562,537.855,-991.93095)">
@@ -266,7 +327,7 @@
        xml:space="preserve"
        id="flowRoot4845"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:191.99894714px;line-height:1.25;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.70033169,0,0,0.69990989,159.39126,-206.27372)"><flowRegion
+       transform="matrix(0.70033169,0,0,0.69990989,162.39128,-209.27381)"><flowRegion
          id="flowRegion4847"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:191.99894714px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
            id="rect4849"
@@ -280,7 +341,7 @@
        xml:space="preserve"
        id="flowRoot4865"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:191.99894714px;line-height:1.25;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.49627346,0,0,0.76827485,1.6999788,-423.80714)"><flowRegion
+       transform="matrix(0.49627346,0,0,0.76827485,4.6999798,-426.80723)"><flowRegion
          id="flowRegion4867"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:191.99894714px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
            id="rect4869"
@@ -293,7 +354,7 @@
        xml:space="preserve"
        id="flowRoot4879"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:183.24986267px;line-height:1.25;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.5400119,0,0,0.86594728,-1190.2162,-334.79844)"><flowRegion
+       transform="matrix(0.5400119,0,0,0.86594728,-1187.216,-337.79853)"><flowRegion
          id="flowRegion4881"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:183.24986267px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
            id="rect4883"
@@ -336,7 +397,7 @@
          y="127.95902"
          style="stroke-width:0.26458332" /></text>
     <flowRoot
-       transform="matrix(0.44643561,0,0,0.86209976,-748.34474,-113.58874)"
+       transform="matrix(0.44643561,0,0,0.86209976,-745.34472,-116.58883)"
        xml:space="preserve"
        id="flowRoot4879-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:191.62371826px;line-height:1.25;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowRegion
@@ -362,12 +423,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1236.738"
+       x="1266.3718"
        y="560.07141"
        id="text6431"><tspan
          sodipodi:role="line"
          id="tspan6429"
-         x="1236.738"
+         x="1266.3718"
          y="560.07141"
          style="stroke-width:0.26458332">-</tspan></text>
     <flowRoot
@@ -386,7 +447,7 @@
        xml:space="preserve"
        id="flowRoot4865-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:191.9982605px;line-height:1.25;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.36720309,0,0,0.76899931,1.2002505,-272.64199)"><flowRegion
+       transform="matrix(0.36720309,0,0,0.76899931,4.2002511,-275.64208)"><flowRegion
          id="flowRegion4867-7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:191.9982605px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
            id="rect4869-2"
@@ -398,15 +459,15 @@
          id="flowPara7260">Schwabach (Franken)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4879-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:183.24986267px;line-height:1.25;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f4d7d7;fill-opacity:1;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-       transform="matrix(0.48219982,0,0,0.64418648,-99.996633,-254.43238)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:183.24986267px;line-height:1.25;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f4d7d7;fill-opacity:1;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.48219982,0,0,0.64418648,-96.99663,-257.43247)"><flowRegion
          id="flowRegion4881-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:183.24986267px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f4d7d7;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:183.24986267px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f4d7d7;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
            id="rect4883-7"
            width="4045.3877"
            height="724.71869"
            x="4493.5498"
            y="138.34804"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:183.24986267px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f4d7d7;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:183.24986267px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f4d7d7;stroke:#800000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4943-9">Initiative Eltern gegen die Maskenpflicht an Bayerns Schulen - wir machen uns für unsere Kinder stark !</flowPara></flowRoot>  </g>
 </svg>
